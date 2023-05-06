@@ -42,7 +42,7 @@ from MCForecastTools import MCSimulation
 ```
 Accessing JupyterLab in Bash: `Jupyter Lab`
 
-![30-Year Monte Carlo Simulation](C:\Users\legar\Desktop\CU-FINTECH\CU-CHALLENGES\M5_CHALLENGE\MC_30_line_plot.png)
+![30-Year Monte Carlo Simulation](M5_CHALLENGE/MC_30_line_plot.png)
 
 
 ## LINKS
