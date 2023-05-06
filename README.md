@@ -49,6 +49,7 @@ Accessing JupyterLab in Bash: `Jupyter Lab`
 The following links were used to access free live data for the BTC and ETH crypto currencies:
 
 [BITCOIN]("https://api.alternative.me/v2/ticker/Bitcoin/?convert=USD")
+
 [ETHEREUM]("https://api.alternative.me/v2/ticker/Ethereum/?convert=USD")
 
 
