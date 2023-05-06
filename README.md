@@ -28,6 +28,8 @@ In order for this highly complex and technical application to run, there are ins
 
 In order to execute, plot, and simulate this code, you must run the following:
 
+![MC_30_line_plot](https://user-images.githubusercontent.com/127421460/236598604-df2f4bce-73c7-4913-98c2-186641b547a8.png)
+
 ```python
 financial_planning_tools.ipynb
 MCForecastTools.py
@@ -41,8 +43,6 @@ from MCForecastTools import MCSimulation
 %matplotlib inline
 ```
 Accessing JupyterLab in Bash: `Jupyter Lab`
-
-![MC_30_line_plot](https://user-images.githubusercontent.com/127421460/236598604-df2f4bce-73c7-4913-98c2-186641b547a8.png)
 
 
 ## LINKS
