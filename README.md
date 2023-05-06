@@ -42,6 +42,7 @@ from MCForecastTools import MCSimulation
 ```
 Accessing JupyterLab in Bash: `Jupyter Lab`
 
+![MC_30_line_plot](https://user-images.githubusercontent.com/127421460/236598604-df2f4bce-73c7-4913-98c2-186641b547a8.png)
 
 
 ## LINKS
