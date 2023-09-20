@@ -1,5 +1,3 @@
-# M5_CHALLENGE
-
 # FINANCIAL PLANNING ANALYSIS & PROJECTIONS
 
 As requested, per our agreement with the Credit Union, in this repository is the code for the analysis and projections of their retirement fund: In this comprehensive breakdown will achieve two goals:
